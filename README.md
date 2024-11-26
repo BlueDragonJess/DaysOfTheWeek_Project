@@ -10,10 +10,10 @@ If input is given as expected:
 ![DaysOfTheWeek_Project (test 1).gif](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/DaysOfTheWeek_Project%20(test%201).gif)
 
 If input is given with random (or all) case letters:
-![](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/DaysOfTheWeek_Project%20(test%202).mp4)
+![DaysOfTheWeek_Project (test 2).gif](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/DaysOfTheWeek_Project%20(test%202).gif)
 
 If input is wrong:
-![](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/DaysOfTheWeek_Project%20(test%203).mp4)
+![DaysOfTheWeek_Project (test 3).gif](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/DaysOfTheWeek_Project%20(test%203).gif)
 
 If input is given with random spaces on the beginning and/or end of word:
-![](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/DaysOfTheWeek_Project%20(test%204).mp4)
+![DaysOfTheWeek_Project (test 4).gif](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/DaysOfTheWeek_Project%20(test%204).gif)
