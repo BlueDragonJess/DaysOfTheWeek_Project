@@ -7,7 +7,7 @@ All given into account that the week must start at Sunday as day 0 of the week, 
 
 # Visual tests
 If input is given as expected:
-![]([https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/DaysOfTheWeek_Project%20(test%201).mp4](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/DaysOfTheWeek_Project%20(test%201).gif))
+![DaysOfTheWeek_Project (test 1).gif](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/DaysOfTheWeek_Project%20(test%201).gif)
 
 If input is given with random (or all) case letters:
 ![](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/DaysOfTheWeek_Project%20(test%202).mp4)
