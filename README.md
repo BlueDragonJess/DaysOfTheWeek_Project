@@ -17,3 +17,6 @@ If input is wrong:
 
 If input is given with random spaces on the beginning and/or end of word:
 ![DaysOfTheWeek_Project (test 4).gif](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/DaysOfTheWeek_Project%20(test%204).gif)
+
+# Acknowledgements
+With this project I was able to learn a simple but useful tool regarding a simplified week schedule, which later on could be enhanced to give a full on date and time, as much in the future as from the past.
