@@ -8,16 +8,16 @@ All given into account that the week must start at Sunday as day 0 of the week, 
 
 # Visual tests
 If input is given as expected:
-![DaysOfTheWeek_Project (test 1).gif](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/DaysOfTheWeek_Project%20(test%201).gif)
+![DaysOfTheWeek_Project (test 1).gif](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/Images_Folder/DaysOfTheWeek_Project%20(test%201).gif)
 
 If input is given with random (or all) case letters:
-![DaysOfTheWeek_Project (test 2).gif](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/DaysOfTheWeek_Project%20(test%202).gif)
+![DaysOfTheWeek_Project (test 2).gif](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/Images_Folder/DaysOfTheWeek_Project%20(test%202).gif)
 
 If input is wrong:
-![DaysOfTheWeek_Project (test 3).gif](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/DaysOfTheWeek_Project%20(test%203).gif)
+![DaysOfTheWeek_Project (test 3).gif](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/Images_Folder/DaysOfTheWeek_Project%20(test%203).gif)
 
 If input is given with random spaces on the beginning and/or end of word:
-![DaysOfTheWeek_Project (test 4).gif](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/DaysOfTheWeek_Project%20(test%204).gif)
+![DaysOfTheWeek_Project (test 4).gif](https://github.com/BlueDragonJess/DaysOfTheWeek_Project/blob/main/Images_Folder/DaysOfTheWeek_Project%20(test%204).gif)
 
 # Acknowledgements
 With this project I was able to learn a simple but useful tool regarding a simplified week schedule, which later on could be enhanced to give a full on date and time, as much in the future as from the past.
